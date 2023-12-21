@@ -1,0 +1,49 @@
+hal harus kamu di lewati(BINAR)
+1. skil metrics
+Javascript
+Git sebagai VS
+HTTP(Belum)
+Express.js membangun back end
+Mengaplikasikan Database SQL Biolder dalam mengeolah database
+HTML dan CSS membangun website
+Bootstrap untuk CSS Framework
+2. Delivery
+
+
+
+
+3. Acceptance Criteria
+Java Script(10%)
+Node.js(10%)
+Server REST API dinuat dengan Express(20%)
+Pengelolahan data menggunakan PostgreSQL(20%)
+Terdapat halam web berbasis HTML dan CSS(20%)
+Terdapat APi untuk membaca,menyimpan, memperbarui, dab menghapis data dibacend menggunakan metode HTTP yang sesui(20%)
+
+(Syarat Aplikasi)
+Create
+Read
+Upadate
+Delete
+
+Syarat: simpel dan menyangkut semua kriteria
+
+Cari tampilan aplikasi : dribbble(pilih web desain)
+
+Membangun Start up
+Membuat prototype backend server yang memberikan layanan melalui REST API
+
+Tugas = Merancang database dan Membuat API
+simpan data user dan barang masing masing
+
+
+Langkah membuat aplikasi(WEB) + Nilai tambah Buat PWA(convert ke mobile), React(javascript), drak(plater), Node.JS
+1. Jenis layan yang duberikan
+2. jenis data yang dikelolah server
+3. Alur kerja API memberikan layanan(FUNGSI CRUD)
+
+Search (Firebase)
+
+BACA CHALLANGE DI CLASSROOM
+
+
